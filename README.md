@@ -66,12 +66,11 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alferrr&show_icons=true&theme=tokyonight&hide_border=true" alt="Alfer's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alferrr&theme=tokyonight&hide_border=true" alt="Alfer's GitHub streak" height="165"/>
+  <img src="./profile/stats.svg" alt="Alfer's GitHub stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alferrr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="./profile/top-langs.svg" alt="Top languages"/>
 </p>
 
 ---
