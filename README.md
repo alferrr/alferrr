@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alfer</h1>
-<h3 align="center">Software Engineer | Problem Solver</h3>
+<h3 align="center">Web Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://alfermercado.com">alfermercado.com</a>
